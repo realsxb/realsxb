@@ -4,6 +4,13 @@ Computer Science undergraduate graduating in 2027, focused on reliable AI system
 
 I like turning probabilistic model behavior into systems that are testable, observable, and explicit about their limits: typed contracts, offline fixtures, deterministic traces, safety gates, and gated real-service integrations.
 
+## Open-source contributions
+
+**[CyberStrikeAI](https://github.com/AIPentest/CyberStrikeAI)** — Contributor
+
+- Fixed a workflow save bug where confirming the metadata dialog did not resume saving, and added four behavioral regression tests.
+- [PR #345](https://github.com/AIPentest/CyberStrikeAI/pull/345) · Merged upstream on Oct 8, 2026.
+
 ## Featured projects
 
 ### [Smart Campus Patrol Robot](https://github.com/realsxb/smart-campus-patrol-robot)
