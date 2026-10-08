@@ -50,4 +50,4 @@ DoT-inspired adaptive SLM/LLM routing with subtask decomposition, dependency DAG
 
 `AI agents` · `RAG / GraphRAG` · `temporal memory` · `MCP / JSON-RPC` · `DAG runtimes` · `SLM/LLM routing` · `robotics / ROS` · `computer vision` · `evaluation` · `Python`
 
-Portfolio: [buaahmjh.com/shaozeyv](https://buaahmjh.com/shaozeyv)
+Portfolio: [buaahmjh.com](https://buaahmjh.com)
